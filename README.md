@@ -1,13 +1,13 @@
 # aliasrc
-##### Another rc for a faster command line
-###### v1.0.3
+##### Another rc for a shorter and faster command line
+###### v1.0.4
 
 aliasrc is a simple rc file that helps you to use your shell faster.
 It provides aliases for different programs.
 
 ## Usage
 
-Add the line `source /etc/aliasrc` to your shell's rc (e.g. `~/.bashrc` or `~/.zshrc`)
+Add the line `source /path/to/repo_root/aliasrc` (e.g. `~/.aliasrc.d/aliasrc`) to your shell's rc (e.g. `~/.bashrc` or `~/.zshrc`)
 
 ## Custom aliases
 
@@ -21,7 +21,7 @@ You can use the local PKGBUILD under `pkg/arch` or use the (https://aur.archlinu
 
 All files in this repository are licensed under the terms of GNU General Public License as published by the Free Software Foundation, version 3:
 
-Copyright (C) 2016-2018 Sebastian Lau <lauseb644 _at_ gmail _dot_ com>
+Copyright (C) 2016-2018, 2024 Sebastian Lau <lauseb644 _at_ gmail _dot_ com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
